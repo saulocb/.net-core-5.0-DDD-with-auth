@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wl+YZczbLjZlcHKuCsL6pBesjRvGiFKRJVWyUqEcvkchsRG9C9G5l7HzF8j5gQhhf9c9ReYNvQYPxft0zzviA==",
+  "success": true,
+  "projectFilePath": "C:\\studying ddd\\Bouncer\\ClassLibrary1\\ClassLibrary1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saulo\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

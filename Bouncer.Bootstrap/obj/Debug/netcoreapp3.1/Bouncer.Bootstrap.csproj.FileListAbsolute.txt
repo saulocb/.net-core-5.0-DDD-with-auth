@@ -1,0 +1,60 @@
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Bootstrap.deps.json
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Bootstrap.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Bootstrap.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Application.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Business.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Commoun.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Date.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.DI.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Mapping.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.ViewModel.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Extension.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\JwtAuth.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Application.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Business.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Date.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.DI.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Domain.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Mapping.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Commoun.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.ViewModel.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\JwtAuth.pdb
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.csproj.CopyComplete
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.dll
+C:\studying ddd\Bouncer\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Bootstrap.deps.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Bootstrap.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Bootstrap.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Application.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Business.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Commoun.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Date.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.DI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Mapping.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.ViewModel.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Extension.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\JwtAuth.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Application.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Business.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Date.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.DI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Domain.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Mapping.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.Commoun.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Bouncer.ViewModel.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\bin\Debug\netcoreapp3.1\JwtAuth.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.csprojAssemblyReference.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.AssemblyInfoInputs.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.AssemblyInfo.cs
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.csproj.CopyComplete
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Bootstrap\obj\Debug\netcoreapp3.1\Bouncer.Bootstrap.pdb

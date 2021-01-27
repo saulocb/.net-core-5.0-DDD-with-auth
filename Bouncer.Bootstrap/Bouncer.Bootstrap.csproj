@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bouncer.Application\Bouncer.Application.csproj" />
+    <ProjectReference Include="..\Bouncer.Business\Bouncer.Business.csproj" />
+    <ProjectReference Include="..\Bouncer.Date\Bouncer.Date.csproj" />
+    <ProjectReference Include="..\Bouncer.DI\Bouncer.DI.csproj" />
+    <ProjectReference Include="..\Bouncer.Domain\Bouncer.Domain.csproj" />
+    <ProjectReference Include="..\Bouncer.Mapping\Bouncer.Mapping.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,38 @@
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.deps.json
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.dll
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.pdb
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Commoun.dll
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.DI.dll
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.DI.pdb
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Domain.pdb
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Commoun.pdb
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.csproj.CopyComplete
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.dll
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.pdb
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.runtimeconfig.json
+C:\studying ddd\Bouncer\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.runtimeconfig.dev.json
+C:\studying ddd\Bouncer\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.genruntimeconfig.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.deps.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.runtimeconfig.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.runtimeconfig.dev.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Date.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Commoun.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.DI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.DI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Domain.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\bin\Debug\netcoreapp3.1\Bouncer.Commoun.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.csprojAssemblyReference.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.AssemblyInfoInputs.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.AssemblyInfo.cs
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.csproj.CopyComplete
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer.Date\obj\Debug\netcoreapp3.1\Bouncer.Date.genruntimeconfig.cache

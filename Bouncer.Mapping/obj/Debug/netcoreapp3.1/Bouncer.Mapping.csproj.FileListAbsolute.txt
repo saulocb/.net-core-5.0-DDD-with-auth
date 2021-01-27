@@ -1,0 +1,16 @@
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Mapping.deps.json
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Mapping.dll
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Mapping.pdb
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Commoun.dll
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.ViewModel.dll
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Domain.pdb
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.ViewModel.pdb
+C:\studying ddd\Bouncer\Bouncer.Mapping\bin\Debug\netcoreapp3.1\Bouncer.Commoun.pdb
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.csproj.CopyComplete
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.dll
+C:\studying ddd\Bouncer\Bouncer.Mapping\obj\Debug\netcoreapp3.1\Bouncer.Mapping.pdb

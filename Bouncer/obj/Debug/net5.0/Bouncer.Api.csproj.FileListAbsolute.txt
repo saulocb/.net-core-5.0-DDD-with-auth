@@ -1,0 +1,206 @@
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\appsettings.Development.json
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\appsettings.json
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Api.exe
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Api.deps.json
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Api.runtimeconfig.json
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Api.runtimeconfig.dev.json
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Api.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\ref\Bouncer.Api.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Api.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\AutoMapper.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\NJsonSchema.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\NSwag.Core.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\NSwag.Generation.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Application.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Bootstrap.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Business.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Commoun.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Date.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.DI.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Domain.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Mapping.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.SwaggerLib.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.ViewModel.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Extension.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\JwtAuth.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Application.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Bootstrap.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.SwaggerLib.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Business.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Commoun.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Date.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.DI.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Domain.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.Mapping.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Bouncer.ViewModel.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Extension.pdb
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\JwtAuth.pdb
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\staticwebassets\Bouncer.Api.StaticWebAssets.Manifest.cache
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\staticwebassets\Bouncer.Api.StaticWebAssets.xml
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\scopedcss\bundle\Bouncer.Api.styles.css
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.RazorTargetAssemblyInfo.cache
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.csproj.CopyComplete
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.dll
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\ref\Bouncer.Api.dll
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.pdb
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.genruntimeconfig.cache
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Humanizer.dll
+C:\studying ddd\Bouncer\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\studying ddd\Bouncer\Bouncer\obj\Debug\net5.0\Bouncer.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\appsettings.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Api.exe
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Api.deps.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Api.runtimeconfig.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Api.runtimeconfig.dev.json
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Api.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\ref\Bouncer.Api.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Api.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Application.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Bootstrap.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Business.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Commoun.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Date.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.DI.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Domain.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Mapping.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.SwaggerLib.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.ViewModel.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Extension.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\JwtAuth.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Application.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Bootstrap.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.SwaggerLib.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Business.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Commoun.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Date.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.DI.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Domain.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.Mapping.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Bouncer.ViewModel.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\Extension.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\bin\Debug\net5.0\JwtAuth.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.csprojAssemblyReference.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.AssemblyInfoInputs.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.AssemblyInfo.cs
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\staticwebassets\Bouncer.Api.StaticWebAssets.Manifest.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\staticwebassets\Bouncer.Api.StaticWebAssets.xml
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\scopedcss\bundle\Bouncer.Api.styles.css
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.RazorTargetAssemblyInfo.cache
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.csproj.CopyComplete
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\ref\Bouncer.Api.dll
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.pdb
+C:\Users\saulo\Downloads\net-core-5.0-DDD-with-entity-main\.net-core-5.0-DDD-with-entity-main\Bouncer\obj\Debug\net5.0\Bouncer.Api.genruntimeconfig.cache

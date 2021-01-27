@@ -1,0 +1,9 @@
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\bin\Debug\netcoreapp3.1\Bouncer.SwaggerLib.deps.json
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\bin\Debug\netcoreapp3.1\Bouncer.SwaggerLib.dll
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\bin\Debug\netcoreapp3.1\Bouncer.SwaggerLib.pdb
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\obj\Debug\netcoreapp3.1\Bouncer.SwaggerLib.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\obj\Debug\netcoreapp3.1\Bouncer.SwaggerLib.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\obj\Debug\netcoreapp3.1\Bouncer.SwaggerLib.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\obj\Debug\netcoreapp3.1\Bouncer.SwaggerLib.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\obj\Debug\netcoreapp3.1\Bouncer.SwaggerLib.dll
+C:\studying ddd\Bouncer\Bouncer.SwaggerLib\obj\Debug\netcoreapp3.1\Bouncer.SwaggerLib.pdb

@@ -1,0 +1,974 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Auth\\Bouncer.Auth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj",
+        "projectName": "Bouncer.Application",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\JwtAuth\\JwtAuth.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\JwtAuth\\JwtAuth.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Auth\\Bouncer.Auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Auth\\Bouncer.Auth.csproj",
+        "projectName": "Bouncer.Auth",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Auth\\Bouncer.Auth.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Auth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Bootstrap\\Bouncer.Bootstrap.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Bootstrap\\Bouncer.Bootstrap.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.SwaggerLib\\Bouncer.SwaggerLib.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.SwaggerLib\\Bouncer.SwaggerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Bootstrap\\Bouncer.Bootstrap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Bootstrap\\Bouncer.Bootstrap.csproj",
+        "projectName": "Bouncer.Bootstrap",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Bootstrap\\Bouncer.Bootstrap.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Bootstrap\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Business\\Bouncer.Business.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Business\\Bouncer.Business.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Business\\Bouncer.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Business\\Bouncer.Business.csproj",
+        "projectName": "Bouncer.Business",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Business\\Bouncer.Business.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Application\\Bouncer.Application.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj",
+        "projectName": "Bouncer.Commoun",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj",
+        "projectName": "Bouncer.Date",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\Bouncer.Date.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Date\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj",
+        "projectName": "Bouncer.DI",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\Bouncer.DI.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj",
+        "projectName": "Bouncer.Domain",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj",
+        "projectName": "Bouncer.Mapping",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\Bouncer.Mapping.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.SwaggerLib\\Bouncer.SwaggerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.SwaggerLib\\Bouncer.SwaggerLib.csproj",
+        "projectName": "Bouncer.SwaggerLib",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.SwaggerLib\\Bouncer.SwaggerLib.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.SwaggerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj",
+        "projectName": "Bouncer.ViewModel",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Domain\\Bouncer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Extension\\Extension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Extension\\Extension.csproj",
+        "projectName": "Extension",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Extension\\Extension.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Extension\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\JwtAuth\\JwtAuth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\JwtAuth\\JwtAuth.csproj",
+        "projectName": "JwtAuth",
+        "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\JwtAuth\\JwtAuth.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\JwtAuth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.Commoun\\Bouncer.Commoun.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Bouncer.ViewModel\\Bouncer.ViewModel.csproj"
+              },
+              "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Extension\\Extension.csproj": {
+                "projectPath": "C:\\Users\\saulo\\Downloads\\net-core-5.0-DDD-with-entity-main\\.net-core-5.0-DDD-with-entity-main\\Extension\\Extension.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

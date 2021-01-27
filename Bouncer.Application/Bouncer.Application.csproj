@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bouncer.Commoun\Bouncer.Commoun.csproj" />
+    <ProjectReference Include="..\Bouncer.Date\Bouncer.Date.csproj" />
+    <ProjectReference Include="..\Bouncer.Domain\Bouncer.Domain.csproj" />
+    <ProjectReference Include="..\Bouncer.Mapping\Bouncer.Mapping.csproj" />
+    <ProjectReference Include="..\Bouncer.ViewModel\Bouncer.ViewModel.csproj" />
+    <ProjectReference Include="..\JwtAuth\JwtAuth.csproj" />
+  </ItemGroup>
+
+</Project>

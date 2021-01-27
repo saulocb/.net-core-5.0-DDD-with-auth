@@ -1,0 +1,12 @@
+C:\studying ddd\Bouncer\Bouncer.Domain\bin\Debug\netcoreapp3.1\Bouncer.Domain.deps.json
+C:\studying ddd\Bouncer\Bouncer.Domain\bin\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\studying ddd\Bouncer\Bouncer.Domain\bin\Debug\netcoreapp3.1\Bouncer.Domain.pdb
+C:\studying ddd\Bouncer\Bouncer.Domain\bin\Debug\netcoreapp3.1\Bouncer.Commoun.dll
+C:\studying ddd\Bouncer\Bouncer.Domain\bin\Debug\netcoreapp3.1\Bouncer.Commoun.pdb
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.csproj.CopyComplete
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.dll
+C:\studying ddd\Bouncer\Bouncer.Domain\obj\Debug\netcoreapp3.1\Bouncer.Domain.pdb

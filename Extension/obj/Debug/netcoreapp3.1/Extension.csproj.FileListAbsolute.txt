@@ -1,0 +1,9 @@
+C:\studying ddd\Bouncer\Extension\bin\Debug\netcoreapp3.1\Extension.deps.json
+C:\studying ddd\Bouncer\Extension\bin\Debug\netcoreapp3.1\Extension.dll
+C:\studying ddd\Bouncer\Extension\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\studying ddd\Bouncer\Extension\obj\Debug\netcoreapp3.1\Extension.csprojAssemblyReference.cache
+C:\studying ddd\Bouncer\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfoInputs.cache
+C:\studying ddd\Bouncer\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfo.cs
+C:\studying ddd\Bouncer\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.CoreCompileInputs.cache
+C:\studying ddd\Bouncer\Extension\obj\Debug\netcoreapp3.1\Extension.dll
+C:\studying ddd\Bouncer\Extension\obj\Debug\netcoreapp3.1\Extension.pdb
